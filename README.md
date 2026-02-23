@@ -1,3 +1,4 @@
-# student-demo
-this is the git repository.
+# student-demo:
+This is the git repository.
+<br>
 Author:nikita jadhav
