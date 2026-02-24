@@ -1,5 +1,5 @@
 # student-demo:
 
-This is the git repository.
+This is the Git Repository.
 <br>
-Author:nikita jadhav(pccoer)
+Author:Nikita Jadhav(PCCOER)
