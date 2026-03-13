@@ -1,4 +1,4 @@
-# student-demo:
+# Student-demo:
 
 This is the Git Repository.
 <br>
